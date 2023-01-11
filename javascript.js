@@ -17,7 +17,6 @@ aPerson.gender = 'masculin';
 aPerson.interest = ['musique', 'badminton'];
 
 aPerson.sayHello = function() {console.log('Bonjour ! Je suis ' + this.name + '.'); };
-
 aPerson.sayHello();
 
 let day;
