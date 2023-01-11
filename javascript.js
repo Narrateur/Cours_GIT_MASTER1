@@ -5,13 +5,13 @@ const operand2 = 45;
 
 let result = operand + operand2;
 
-console.log("resultat de" + operand + "+" + operand2 + "=" + result);
+console.log("resultat de " + operand + " + " + operand2 + " = " + result);
 
 
 // on peut également déclarer et initialiser un objet de la façon suivante :
 
 let aPerson= new Object();
-aPerson.name = 'Jean';
+aPerson.name = 'Jean Michel Kevin';
 aPerson.age = 35;
 aPerson.gender = 'masculin';
 aPerson.interest = ['musique', 'badminton'];
