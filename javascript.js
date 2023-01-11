@@ -1,9 +1,11 @@
 console.log('Hello World');
 
-const a = 12;
-const b = 45;
-b+=a;
-console.log("result = "+b);
+const operand = 12;
+const operand2 = 45;
+
+let result = operand + operand2;
+
+console.log("resultat de" + operand + "+" + operand2 + "=" + result);
 
 
 // on peut également déclarer et initialiser un objet de la façon suivante :
